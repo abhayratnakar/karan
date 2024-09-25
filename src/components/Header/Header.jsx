@@ -8,7 +8,7 @@ function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="karan.png"
+                            src="src\assets\public\images\karan.png"
                             className=" mr-3 h-12"
                             alt="Logo"
                         />
