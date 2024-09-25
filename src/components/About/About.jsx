@@ -8,7 +8,7 @@ function About() {
                     <div className="md:5/12 lg:w-5/12">
                         <img
                             className='rounded-md'
-                            src="src\assets\public\images\about.jpg"
+                            src="https://github.com/abhayratnakar/karan/blob/main/src/assets/public/images/about.jpg?raw=true"
                             alt="image"
                         />
                     </div>
