@@ -8,7 +8,7 @@ function About() {
                     <div className="md:5/12 lg:w-5/12">
                         <img
                             className='rounded-md'
-                            src="src\assets\about.jpg"
+                            src="about.jpg"
                             alt="image"
                         />
                     </div>
