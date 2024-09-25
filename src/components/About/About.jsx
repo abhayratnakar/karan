@@ -7,7 +7,8 @@ function About() {
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
                         <img
-                            src="https://scontent.fbom66-1.fna.fbcdn.net/v/t39.30808-6/339919054_226902306676921_5525025905627331866_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JUDLG2yiX5YQ7kNvgEx8dTO&_nc_ht=scontent.fbom66-1.fna&oh=00_AYBvJyksrgH0lfFc8pQ-yRmQ41ZILmZMFv9tvYEiLf_oog&oe=66DA2724"
+                            className='rounded-md'
+                            src="src\assets\about.jpg"
                             alt="image"
                         />
                     </div>

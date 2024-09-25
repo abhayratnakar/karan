@@ -10,8 +10,8 @@ function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://scontent.fbom66-1.fna.fbcdn.net/v/t39.30808-6/458079744_433058503095260_6535091206057456241_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=EWIX_I5tRK0Q7kNvgFfK3y9&_nc_ht=scontent.fbom66-1.fna&oh=00_AYC4SEUCJaz-NW3_iw5kRQDrQRAasVBC1tKgV_sma6BSEA&oe=66DA0083"
-                                className="mr-3 h-16"
+                                src="src\assets\kp2.jpg"
+                                className=" h-36 w-60"
                                 alt="Logo"
                             />
                         </Link>
